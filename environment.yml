@@ -1,0 +1,8 @@
+name: BLRB_environment
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - pandas
+  - numpy
+prefix: /home/mkramer1/Desktop/BLRB_3_15
